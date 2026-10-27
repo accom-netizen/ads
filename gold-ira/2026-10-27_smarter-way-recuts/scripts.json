@@ -1,0 +1,17 @@
+{
+  "voice": {
+    "am_onyx": 0.6,
+    "am_santa": 0.4
+  },
+  "speed": 1.02,
+  "middle": "Inflation's chewing through your savings. Banks pay you next to nothing. Stocks are all over the place. That's why a lot of people are moving part of their retirement into physical gold. Something real, that you can actually own.",
+  "kit": "Here's the move. Request the free Gold IRA guide. No fluff, no guesswork. It shows you exactly how it works, and whether it makes sense for you.",
+  "hooks": {
+    "A_dumbway": "Most people are buying gold the dumb way. Overpriced, overhyped, and they don't even know it. But there's a smarter way. And no, it's not at your local store, or some sketchy website.",
+    "B_401k": "Most people have no idea their 401k can hold real, physical gold. And the ones who buy gold usually do it the dumb way. There's a smarter way. And no, it's not your local store, or some sketchy website.",
+    "C_almost": "I almost bought gold the dumb way. Overpriced coins from the shop down the street. Then I found out there's a smarter way. And no, it's not a store, or some sketchy website.",
+    "D_nobody": "Here's what nobody tells you about owning gold. The smartest way isn't buying coins at a store, or on some sketchy website. It's doing it inside your retirement account."
+  },
+  "ending1": "If you've got savings in a 401k, I.R.A, or TSP, tap the link and answer one quick question.",
+  "ending2": "A Gold IRA specialist will give you a call to walk you through your options. It takes about ten minutes. Keep your phone close."
+}
